@@ -1,0 +1,10 @@
+export const SEND_INVITE = 'SEND_INVITE';
+export const ACTIVATE_USER = 'ACTIVATE_USER';
+export const GET_USERS = 'GET_USERS';
+export const SET_TEAM_LIST = 'SET_TEAM_LIST';
+export const SET_REDIRECTION = 'SET_REDIRECTION';
+export const CLEAR_REDIRECTION = 'CLEAR_REDIRECTION';
+export const ADD_SUCCESS = 'ADD_SUCCESS';
+export const CLEAR_SUCCESS = 'CLEAR_SUCCESS';
+export const ADD_ERROR = 'ADD_ERROR';
+export const CLEAR_ERROR = 'CLEAR_ERROR';
